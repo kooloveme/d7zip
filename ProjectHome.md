@@ -1,0 +1,1 @@
+This is a Delphi interface for 7z plugin.
